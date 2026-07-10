@@ -1,7 +1,10 @@
-# LP Express Preview Studio v0.1
+# LP Express Studio Standalone
 
-Public staging build for Agência Cavalheri internal validation.
+Aplicação standalone do LP Express Studio, fora do WordPress.
 
-URL: https://studio-lp.agenciacavalheri.com
+- Front-end: React + Vite
+- Domínio: studio-lp.agenciacavalheri.com
+- WordPress/WooCommerce: venda, pedido e token
+- Studio: interface própria para montar/editar LPs
 
-This is a static prototype/editor. It does not include credentials, backend, private briefs, tokens or customer data.
+Não salvar credenciais neste repositório.
