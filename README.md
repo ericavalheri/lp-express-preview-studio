@@ -7,6 +7,7 @@ Aplicação standalone do LP Express Studio, fora do WordPress.
 - WordPress/WooCommerce: venda, pedido e token
 - Studio: interface própria para montar/editar LPs
 - Edição visível de textos, imagens, cores, fontes e tamanhos no painel lateral
+- URLs demo por modo não misturam conteúdo: Local usa Clínica Aurora; Promo usa Moda Presente
 
 Deploy atualizado a partir de `apps/lp-express-studio-standalone/frontend/dist`, com assets relativos para funcionar em domínio raiz ou subpasta HTTPS temporária.
 
