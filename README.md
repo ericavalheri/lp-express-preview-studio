@@ -9,6 +9,7 @@ Aplicação standalone do LP Express Studio, fora do WordPress.
 - Edição visível e live de textos, imagens, cores, fontes e tamanhos no painel lateral
 - Campos Negócio/Cidade/Segmento sincronizam a copy demo do modelo atual
 - URLs demo por modo não misturam conteúdo: Local usa Clínica Aurora; Promo usa Moda Presente
+- Camada visual inspirada em templates tipo W3Layouts: topbar, grids de serviços, benefícios, prova, faixa de agendamento e campanha
 
 Deploy atualizado a partir de `apps/lp-express-studio-standalone/frontend/dist`, com assets relativos para funcionar em domínio raiz ou subpasta HTTPS temporária.
 
