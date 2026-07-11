@@ -3,7 +3,7 @@
 Aplicação standalone do LP Express Studio, fora do WordPress.
 
 - Front-end: React + Vite
-- Domínio: studio-lp.agenciacavalheri.com
+- Domínio principal atual de staging: studio-app-lp.agenciacavalheri.com
 - WordPress/WooCommerce: venda, pedido e token
 - Studio: interface própria para montar/editar LPs
 
